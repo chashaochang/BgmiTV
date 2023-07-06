@@ -1,0 +1,193 @@
+{
+  "version": "4.4.6",
+  "latest_version": "4.4.6",
+  "frontend_version": [
+    ">=2.0.0",
+    "<3.0.0"
+  ],
+  "status": "success",
+  "lang": "zh_cn",
+  "danmaku_api": "",
+  "data": [
+    {
+      "name": "物理魔法使马修",
+      "update_time": "Fri",
+      "cover": "/bangumi/cover/https/share.dmhy.org/images/weekly/2023044c2e87.jpg",
+      "id": 4,
+      "bangumi_name": "物理魔法使马修",
+      "episode": 10,
+      "status": 1,
+      "updated_time": 1687118407,
+      "player": {
+        "1": {
+          "path": "/物理魔法使马修/1/[orion origin] Mashle [01] [1080p] [H265 AAC] [CHS].mp4"
+        },
+        "6": {
+          "path": "/物理魔法使马修/6/[orion origin] Mashle [06] [1080p] [H265 AAC] [CHS].mp4"
+        },
+        "2": {
+          "path": "/物理魔法使马修/2/[orion origin] Mashle [02] [1080p] [H265 AAC] [CHS].mp4"
+        },
+        "8": {
+          "path": "/物理魔法使马修/8/[LKSUB][Mashle][08][GB][720P].mp4"
+        },
+        "10": {
+          "path": "/物理魔法使马修/10/[orion origin] Mashle [10] [1080p] [H265 AAC] [CHS].mp4"
+        },
+        "5": {
+          "path": "/物理魔法使马修/5/[LKSUB][Mashle][05][GB][720P].mp4"
+        },
+        "7": {
+          "path": "/物理魔法使马修/7/[orion origin] Mashle [07] [1080p] [H265 AAC] [CHS].mp4"
+        },
+        "4": {
+          "path": "/物理魔法使马修/4/[orion origin] Mashle [04] [1080p] [H265 AAC] [CHS].mp4"
+        },
+        "9": {
+          "path": "/物理魔法使马修/9/[orion origin] Mashle [09] [1080p] [H265 AAC] [CHS].mp4"
+        },
+        "3": {
+          "path": "/物理魔法使马修/3/[orion origin] Mashle [03] [1080p] [H265 AAC] [CHS].mp4"
+        }
+      }
+    },
+    {
+      "name": "鬼灭之刃 第3期 锻刀村篇",
+      "update_time": "Sun",
+      "cover": "/bangumi/cover/https/share.dmhy.org/images/weekly/202304ad2300.jpg",
+      "id": 2,
+      "bangumi_name": "鬼灭之刃 第3期 锻刀村篇",
+      "episode": 11,
+      "status": 1,
+      "updated_time": 1687118406,
+      "player": {
+        "3": {
+          "path": "/鬼灭之刃 第3期 锻刀村篇/3/[XKsub][Kimetsu no Yaiba - Katanakaji no Sato-hen][03][CHT_JAP][1080P][WEBrip][MP4].mp4"
+        },
+        "9": {
+          "path": "/鬼灭之刃 第3期 锻刀村篇/9/[Lilith-Raws] Kimetsu no Yaiba - Katanakaji no Sato-Hen - 09 [Baha][WEB-DL][1080p][AVC AAC][CHT][MP4].mp4"
+        },
+        "11": {
+          "path": "/鬼灭之刃 第3期 锻刀村篇/11/[Lilith-Raws] Kimetsu no Yaiba - Katanakaji no Sato-Hen - 11 [Baha][WEB-DL][1080p][AVC AAC][CHT][MP4].mp4"
+        },
+        "4": {
+          "path": "/鬼灭之刃 第3期 锻刀村篇/4/[UHA-WINGS] [Kimetsu no Yaiba - Katanakaji no Sato-hen][04][x264 1080p][CHT].mp4"
+        },
+        "7": {
+          "path": "/鬼灭之刃 第3期 锻刀村篇/7/[UHA-WINGS] [Kimetsu no Yaiba - Katanakaji no Sato-hen][07][x264 1080p][CHT].mp4"
+        },
+        "5": {
+          "path": "/鬼灭之刃 第3期 锻刀村篇/5/[UHA-WINGS] [Kimetsu no Yaiba - Katanakaji no Sato-hen][05][x264 1080p][CHT].mp4"
+        },
+        "8": {
+          "path": "/鬼灭之刃 第3期 锻刀村篇/8/[UHA-WINGS] [Kimetsu no Yaiba - Katanakaji no Sato-hen][08][x264 1080p][CHT].mp4"
+        },
+        "2": {
+          "path": "/鬼灭之刃 第3期 锻刀村篇/2/[jibaketa]Kimetsu no Yaiba Katanakaji no Sato Hen - 02 (WEB 1920x1080 AVC AACx2 SRT MUSE CHT).mkv"
+        },
+        "10": {
+          "path": "/鬼灭之刃 第3期 锻刀村篇/10/[Lilith-Raws] Kimetsu no Yaiba - Katanakaji no Sato-Hen - 10 [Baha][WEB-DL][1080p][AVC AAC][CHT][MP4].mp4"
+        },
+        "6": {
+          "path": "/鬼灭之刃 第3期 锻刀村篇/6/[織夢字幕組][鬼滅之刃 鍛刀村篇 鬼滅の刃 刀鍛冶の裏編][06集][1080P][AVC][繁日雙語].mp4"
+        },
+        "1": {
+          "path": "/鬼灭之刃 第3期 锻刀村篇/1/[jibaketa]Kimetsu no Yaiba Katanakaji no Sato Hen - 01 (WEB 1920x1080 AVC AACx2 SRT MUSE CHT).mkv"
+        }
+      }
+    },
+    {
+      "name": "海賊王",
+      "update_time": "Sun",
+      "cover": "/bangumi/cover/https/share.dmhy.org/images/weekly/OnePiece.jpg",
+      "id": 1,
+      "bangumi_name": "海賊王",
+      "episode": 1065,
+      "status": 1,
+      "updated_time": 1686506417,
+      "player": {
+        "1062": {
+          "path": "/海賊王/1062/[OPFansMaplesnow][one_piece][1062][1080p].mkv"
+        },
+        "1065": {
+          "path": "/海賊王/1065/[Skymoon-Raws][One Piece][1065][ViuTV][WEB-DL][CHT][1080p][AVC AAC][MP4+ASS]/[Skymoon-Raws][One Piece][1065][ViuTV][WEB-DL][1080p][AVC AAC].mp4"
+        },
+        "1057": {
+          "path": "/海賊王/1057/[OPFansMaplesnow][one_piece][1057][1080p].mp4"
+        },
+        "1059": {
+          "path": "/海賊王/1059/[OPFansMaplesnow][one_piece][1059][1080p].mp4"
+        },
+        "1061": {
+          "path": "/海賊王/1061/[OPFansMaplesnow][one_piece][1061][1080p].mkv"
+        },
+        "1054": {
+          "path": "/海賊王/1054/[OPFansMaplesnow][one_piece][1054][4k].mkv"
+        },
+        "1064": {
+          "path": "/海賊王/1064/[Skymoon-Raws][One Piece][1064][ViuTV][WEB-DL][CHT][1080p][AVC AAC][MP4+ASS]/[Skymoon-Raws][One Piece][1064][ViuTV][WEB-DL][1080p][AVC AAC].mp4"
+        },
+        "1056": {
+          "path": "/海賊王/1056/[Skymoon-Raws][One Piece][1056][ViuTV][WEB-DL][CHT][1080p][AVC AAC][MP4+ASS]/[Skymoon-Raws][One Piece][1056][ViuTV][WEB-DL][1080p][AVC AAC].mp4"
+        },
+        "1063": {
+          "path": "/海賊王/1063/[OPFansMaplesnow][one_piece][1063][1080p].mp4"
+        },
+        "1055": {
+          "path": "/海賊王/1055/[OPFansMaplesnow][one_piece][1055][1080p].mkv"
+        },
+        "1058": {
+          "path": "/海賊王/1058/[OPFansMaplesnow][one_piece][1058][1080p].mp4"
+        },
+        "1060": {
+          "path": "/海賊王/1060/[OPFansMaplesnow][one_piece][1060][1080p].mkv"
+        }
+      }
+    },
+    {
+      "name": "我推的孩子",
+      "update_time": "Wed",
+      "cover": "/bangumi/cover/https/share.dmhy.org/images/weekly/202304d5a035.jpg",
+      "id": 3,
+      "bangumi_name": "我推的孩子",
+      "episode": 1056,
+      "status": 1,
+      "updated_time": 1686154226,
+      "player": {
+        "2": {
+          "path": "/我推的孩子/2/[云光字幕组] 我推的孩子 Oshi no Ko [02][简体双语][1080p]招募翻译.mp4"
+        },
+        "5": {
+          "path": "/我推的孩子/5/[DMG][Oshi_no_Ko][05][1080P][GB].mp4"
+        },
+        "1": {
+          "path": "/我推的孩子/1/[云光字幕组] 我推的孩子 Oshi no Ko [01][简体双语][1080p]招募翻译.mp4"
+        },
+        "6": {
+          "path": "/我推的孩子/6/[DMG][Oshi_no_Ko][06][1080P][GB].mp4"
+        },
+        "4": {
+          "path": "/我推的孩子/4/[云光字幕组] 我推的孩子 Oshi no Ko [04][简体双语][1080p]招募翻译.mp4"
+        },
+        "9": {
+          "path": "/我推的孩子/9/【推しの子】 Hirogaru Sky! Precure - 09 (CR 1920x1080 AVC AAC MKV) [C968C57A].mkv"
+        },
+        "3": {
+          "path": "/我推的孩子/3/[云光字幕组] 我推的孩子 Oshi no Ko [03][简体双语][1080p]招募翻译.mp4"
+        },
+        "17": {
+          "path": "/我推的孩子/17/【推しの子】 我與機器子 - 17 (Baha 1920x1080 AVC AAC MP4) [8D2FB11C].mp4"
+        },
+        "1056": {
+          "path": "/我推的孩子/1056/【推しの子】 One Piece - 1056 (CR 1920x1080 AVC AAC MKV) [14F71C5A].mkv"
+        },
+        "13": {
+          "path": "/我推的孩子/13/【推しの子】 Mou Ippon! - 13 (Sentai 1920x1080 AVC AAC MKV) [A1303F07].mkv"
+        },
+        "7": {
+          "path": "/我推的孩子/7/[DMG][Oshi_no_Ko][07][1080P][GB].mp4"
+        }
+      }
+    }
+  ]
+}

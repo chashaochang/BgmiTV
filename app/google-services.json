@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "993257714172",
+    "project_id": "bgmi-85c22",
+    "storage_bucket": "bgmi-85c22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993257714172:android:1047880e62891a336f4279",
+        "android_client_info": {
+          "package_name": "cn.xiaobai.bgmi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993257714172-au28ae7gu9tht92melvkijioki6a69u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR0mGpLeBbsxx56_uwoNBLskwKwm7mRSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993257714172-au28ae7gu9tht92melvkijioki6a69u4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
